@@ -1,0 +1,10 @@
+* cl-drm
+
+Common Lisp wrapper to libdrm
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/malcolmstill/cl-drm.git   |
+| commit  | 2d0ed7d  |
+| systems | cl-drm |
+|---------+-------------------------------------------|
+
